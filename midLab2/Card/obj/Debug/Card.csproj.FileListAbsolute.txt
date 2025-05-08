@@ -1,0 +1,7 @@
+C:\Redwan\OOP2\midLab2\Card\bin\Debug\Card.exe.config
+C:\Redwan\OOP2\midLab2\Card\bin\Debug\Card.exe
+C:\Redwan\OOP2\midLab2\Card\bin\Debug\Card.pdb
+C:\Redwan\OOP2\midLab2\Card\obj\Debug\Card.csproj.AssemblyReference.cache
+C:\Redwan\OOP2\midLab2\Card\obj\Debug\Card.csproj.CoreCompileInputs.cache
+C:\Redwan\OOP2\midLab2\Card\obj\Debug\Card.exe
+C:\Redwan\OOP2\midLab2\Card\obj\Debug\Card.pdb

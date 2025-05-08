@@ -1,0 +1,7 @@
+C:\Redwan\OOP2\midLab2\SecondClass\bin\Debug\SecondClass.exe.config
+C:\Redwan\OOP2\midLab2\SecondClass\bin\Debug\SecondClass.exe
+C:\Redwan\OOP2\midLab2\SecondClass\bin\Debug\SecondClass.pdb
+C:\Redwan\OOP2\midLab2\SecondClass\obj\Debug\SecondClass.csproj.AssemblyReference.cache
+C:\Redwan\OOP2\midLab2\SecondClass\obj\Debug\SecondClass.csproj.CoreCompileInputs.cache
+C:\Redwan\OOP2\midLab2\SecondClass\obj\Debug\SecondClass.exe
+C:\Redwan\OOP2\midLab2\SecondClass\obj\Debug\SecondClass.pdb

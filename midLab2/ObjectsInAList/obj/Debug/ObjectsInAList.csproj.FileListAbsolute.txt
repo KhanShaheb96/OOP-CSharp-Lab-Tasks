@@ -1,0 +1,7 @@
+C:\Redwan\OOP2\midLab2\ObjectsInAList\bin\Debug\ObjectsInAList.exe.config
+C:\Redwan\OOP2\midLab2\ObjectsInAList\bin\Debug\ObjectsInAList.exe
+C:\Redwan\OOP2\midLab2\ObjectsInAList\bin\Debug\ObjectsInAList.pdb
+C:\Redwan\OOP2\midLab2\ObjectsInAList\obj\Debug\ObjectsInAList.csproj.AssemblyReference.cache
+C:\Redwan\OOP2\midLab2\ObjectsInAList\obj\Debug\ObjectsInAList.csproj.CoreCompileInputs.cache
+C:\Redwan\OOP2\midLab2\ObjectsInAList\obj\Debug\ObjectsInAList.exe
+C:\Redwan\OOP2\midLab2\ObjectsInAList\obj\Debug\ObjectsInAList.pdb

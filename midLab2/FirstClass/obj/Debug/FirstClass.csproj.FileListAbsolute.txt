@@ -1,0 +1,7 @@
+C:\Redwan\OOP2\midLab2\FirstClass\bin\Debug\FirstClass.exe.config
+C:\Redwan\OOP2\midLab2\FirstClass\bin\Debug\FirstClass.exe
+C:\Redwan\OOP2\midLab2\FirstClass\bin\Debug\FirstClass.pdb
+C:\Redwan\OOP2\midLab2\FirstClass\obj\Debug\FirstClass.csproj.AssemblyReference.cache
+C:\Redwan\OOP2\midLab2\FirstClass\obj\Debug\FirstClass.csproj.CoreCompileInputs.cache
+C:\Redwan\OOP2\midLab2\FirstClass\obj\Debug\FirstClass.exe
+C:\Redwan\OOP2\midLab2\FirstClass\obj\Debug\FirstClass.pdb

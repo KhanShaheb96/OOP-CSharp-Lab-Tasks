@@ -1,0 +1,7 @@
+C:\Redwan\OOP2\midLab2\FirstAccount\bin\Debug\FirstAccount.exe.config
+C:\Redwan\OOP2\midLab2\FirstAccount\bin\Debug\FirstAccount.exe
+C:\Redwan\OOP2\midLab2\FirstAccount\bin\Debug\FirstAccount.pdb
+C:\Redwan\OOP2\midLab2\FirstAccount\obj\Debug\FirstAccount.csproj.AssemblyReference.cache
+C:\Redwan\OOP2\midLab2\FirstAccount\obj\Debug\FirstAccount.csproj.CoreCompileInputs.cache
+C:\Redwan\OOP2\midLab2\FirstAccount\obj\Debug\FirstAccount.exe
+C:\Redwan\OOP2\midLab2\FirstAccount\obj\Debug\FirstAccount.pdb

@@ -1,0 +1,7 @@
+C:\Redwan\OOP2\midLab2\Counter\bin\Debug\Counter.exe.config
+C:\Redwan\OOP2\midLab2\Counter\bin\Debug\Counter.exe
+C:\Redwan\OOP2\midLab2\Counter\bin\Debug\Counter.pdb
+C:\Redwan\OOP2\midLab2\Counter\obj\Debug\Counter.csproj.AssemblyReference.cache
+C:\Redwan\OOP2\midLab2\Counter\obj\Debug\Counter.csproj.CoreCompileInputs.cache
+C:\Redwan\OOP2\midLab2\Counter\obj\Debug\Counter.exe
+C:\Redwan\OOP2\midLab2\Counter\obj\Debug\Counter.pdb
